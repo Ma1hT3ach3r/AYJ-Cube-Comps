@@ -16,4 +16,4 @@
 -
 
 Screenshots
-![octocat](AYJ-Cube-Comps/octocat.PNG)
+![octocat](https://github.com/PeterOsudar/AYJ-Cube-Comps/blob/master/octocat.PNG)
